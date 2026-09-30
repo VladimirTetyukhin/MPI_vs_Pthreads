@@ -1,4 +1,4 @@
-# Hybrid MPI/OpenMP/OpenACC Matrix Benchmark — Refactored Layout
+# Hybrid MPI/OpenMP/OpenACC Matrix Benchmark
 
 This is a logical multi-file refactor of the original single-file program. The computational logic was preserved, while related code was moved into modules with a shared header.
 
